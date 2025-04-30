@@ -1,8 +1,8 @@
 ---
 title: "dopamine-cat picture generator!"
 date: 2025-04-29
-categories: [Dopamine Cat]
-tags: [Dopamine Cat]
+categories: [Hello World]
+tags: [Dopamine Cat, Hellow World]
 ---
 
 # Dopamine Cat Picture Generator
